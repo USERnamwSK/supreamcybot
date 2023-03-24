@@ -7,7 +7,7 @@ system("pip install bs4")
 system("pip install google_images_search")
 system("pip install pillow")
 system("pip install BotAmino")
-system("pip install amino.fix")
+system("pip install flask")
 from keep_alive import keep_alive
 
 keep_alive()
