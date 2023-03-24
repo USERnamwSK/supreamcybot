@@ -1,0 +1,16 @@
+{
+    "welcome": "",
+    "prefix": "!",
+    "welcome_chat": "",
+    "locked_command": [],
+    "favorite_users": [],
+    "favorite_chats": [],
+    "banned_words": [],
+    "confesiones": "",
+    "coin_channel": "",
+    "wel_status": true,
+    "goodbye_status": true,
+    "welcome_chat_message": [],
+    "goodbye_chat_message": [],
+    "status_coin": true
+}
