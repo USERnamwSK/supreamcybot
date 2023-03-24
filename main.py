@@ -8,6 +8,7 @@ system("pip install google_images_search")
 system("pip install pillow")
 system("pip install BotAmino")
 system("pip install flask")
+system("pip install Flask")
 from keep_alive import keep_alive
 
 keep_alive()
