@@ -9,6 +9,7 @@ system("pip install pillow")
 system("pip install BotAmino")
 system("pip install flask")
 system("pip install Flask")
+system("pip install MarkupSafe")
 from keep_alive import keep_alive
 
 keep_alive()
